@@ -1,14 +1,11 @@
 int missingNumber(int* nums, int numsSize) {
+    int a=0,b=0;
     for(int i=0;i<=numsSize;i++){
-        int p=0;
-        for (int j=0;j<numsSize;j++){
-            if(*(nums + j)==i){
-                p=1;
-            }
-        }
-        if(p==0){
-            return i;
-        }
+        a+=i;
     }
-    return -1;
+        
+    for (int j=0;j<numsSize;j++){
+        b+=nums[j];
+    }
+    return a-b;
 }
