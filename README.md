@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0013-roman-to-integer) |
+| [0551-student-attendance-record-i](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0551-student-attendance-record-i) |
 ## Linked List
 |  |
 | ------- |
