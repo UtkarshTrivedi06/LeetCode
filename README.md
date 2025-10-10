@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0035-search-insert-position) |
+| [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 ## Topological Sort
