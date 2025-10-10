@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0922-possible-bipartition) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0922-possible-bipartition) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0922-possible-bipartition](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0922-possible-bipartition) |
