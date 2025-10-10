@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
