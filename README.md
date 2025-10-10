@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -93,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
