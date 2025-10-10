@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0035-search-insert-position) |
+| [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -71,16 +72,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
