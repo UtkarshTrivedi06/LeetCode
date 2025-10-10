@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 ## Topological Sort
 |  |
 | ------- |
