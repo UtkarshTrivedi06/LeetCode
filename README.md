@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0058-length-of-last-word) |
 | [0551-student-attendance-record-i](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0551-student-attendance-record-i) |
 ## Linked List
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
