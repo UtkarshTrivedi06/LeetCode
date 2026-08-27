@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
