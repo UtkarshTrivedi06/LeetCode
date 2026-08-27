@@ -1,10 +1,8 @@
 int removeDuplicates(int* nums, int numsSize) {
     int c=1;
-    int curr=nums[0];
-    for(int i=0;i<numsSize;i++){
-        if(nums[i]>curr){
+    for(int i=1;i<numsSize;i++){
+        if(nums[i]>nums[i-1]){
             nums[c]=nums[i];
-            curr=nums[i];
             c++;
         }
     }
