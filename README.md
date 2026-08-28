@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1039-find-the-town-judge) |
