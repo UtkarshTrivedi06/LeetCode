@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
