@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0136-single-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
