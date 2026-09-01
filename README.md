@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0169-majority-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
