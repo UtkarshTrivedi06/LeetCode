@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0922-possible-bipartition) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0922-possible-bipartition) |
@@ -175,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
@@ -228,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/UtkarshTrivedi06/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
